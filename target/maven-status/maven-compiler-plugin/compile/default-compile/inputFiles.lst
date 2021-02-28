@@ -1,5 +1,5 @@
-/home/pedropbazzo/Documentos/Java/agendalive-master/src/main/java/com/spring/agendalive/AgendaliveApplication.java
-/home/pedropbazzo/Documentos/Java/agendalive-master/src/main/java/com/spring/agendalive/controller/LiveController.java
-/home/pedropbazzo/Documentos/Java/agendalive-master/src/main/java/com/spring/agendalive/service/LiveService.java
-/home/pedropbazzo/Documentos/Java/agendalive-master/src/main/java/com/spring/agendalive/repository/LiveRepository.java
-/home/pedropbazzo/Documentos/Java/agendalive-master/src/main/java/com/spring/agendalive/document/LiveDocument.java
+/home/pedropbazzo/Documentos/Java/api-tasks/src/main/java/com/spring/task/repository/TaskRepository.java
+/home/pedropbazzo/Documentos/Java/api-tasks/src/main/java/com/spring/task/service/TaskService.java
+/home/pedropbazzo/Documentos/Java/api-tasks/src/main/java/com/spring/task/document/TaskDocument.java
+/home/pedropbazzo/Documentos/Java/api-tasks/src/main/java/com/spring/task/TaskApplication.java
+/home/pedropbazzo/Documentos/Java/api-tasks/src/main/java/com/spring/task/controller/TaskController.java

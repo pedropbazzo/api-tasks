@@ -1,5 +1,5 @@
-com/spring/agendalive/document/LiveDocument.class
-com/spring/agendalive/controller/LiveController.class
-com/spring/agendalive/service/LiveService.class
-com/spring/agendalive/AgendaliveApplication.class
-com/spring/agendalive/repository/LiveRepository.class
+com/spring/task/repository/TaskRepository.class
+com/spring/task/service/TaskService.class
+com/spring/task/document/TaskDocument.class
+com/spring/task/controller/TaskController.class
+com/spring/task/TaskApplication.class

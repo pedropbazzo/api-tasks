@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.spring</groupId>
-	<artifactId>agendalive</artifactId>
+	<artifactId>tasks</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>agendalive</name>
+	<name>tasks</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
